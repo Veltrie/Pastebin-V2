@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelBin", "VelBin\VelBin.csproj", "{9B046AB2-D974-4EF5-BCE6-8EC386A93C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibPaste", "ClassLibPaste\ClassLibPaste.csproj", "{489A9DB4-2DC7-4C94-A780-CC1E61E5E2D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B046AB2-D974-4EF5-BCE6-8EC386A93C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B046AB2-D974-4EF5-BCE6-8EC386A93C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B046AB2-D974-4EF5-BCE6-8EC386A93C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B046AB2-D974-4EF5-BCE6-8EC386A93C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489A9DB4-2DC7-4C94-A780-CC1E61E5E2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489A9DB4-2DC7-4C94-A780-CC1E61E5E2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489A9DB4-2DC7-4C94-A780-CC1E61E5E2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489A9DB4-2DC7-4C94-A780-CC1E61E5E2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF2891DA-7068-4C77-ACC1-5D2C50B4D06B}
+	EndGlobalSection
+EndGlobal

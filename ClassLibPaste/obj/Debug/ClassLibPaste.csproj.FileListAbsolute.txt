@@ -1,0 +1,6 @@
+C:\Users\marcu\source\repos\VelBin\ClassLibPaste\bin\Debug\ClassLibPaste.dll
+C:\Users\marcu\source\repos\VelBin\ClassLibPaste\bin\Debug\ClassLibPaste.pdb
+C:\Users\marcu\source\repos\VelBin\ClassLibPaste\obj\Debug\ClassLibPaste.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\VelBin\ClassLibPaste\obj\Debug\ClassLibPaste.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\VelBin\ClassLibPaste\obj\Debug\ClassLibPaste.dll
+C:\Users\marcu\source\repos\VelBin\ClassLibPaste\obj\Debug\ClassLibPaste.pdb
